@@ -1,0 +1,5 @@
+cd   directory of the main
+uvicorn main:app --reload --port 8000 ( using fastapi)
+
+
+go to   http://127.0.0.1:8000/        127.0.0.1  is the universal home adresse 

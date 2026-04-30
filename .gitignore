@@ -1,0 +1,27 @@
+# Python environments
+.conda/
+.venv/
+env/
+venv/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+# ML / scraping datasets (GENERATED)
+ai_jobs_extracted/
+ai_jobs_failed/
+final_data_cleaned/
+final_data_failed/
+yaml_files/
+
+.env

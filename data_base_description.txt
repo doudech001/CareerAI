@@ -1,0 +1,38 @@
+Tables
+job_json — the root table
+The single source of truth. Every job starts here. Scraped from job boards and stored as raw JSON in the data column (JSONB). Everything else in the DB references this table via job_id.
+ColumnTypeDescriptionjob_idTEXT PKUnique job identifier from the scraperjob_titleTEXTJob titledate_scrapedTEXTWhen the job was scrapedsource_urlTEXTOriginal job posting URLdataJSONBFull raw job JSON from the scraper
+
+job_yaml — structured version of the job
+The raw JSON gets parsed and converted into clean YAML with 4 fixed sections. Same job_id as job_json, so it's essentially a 1:1 sibling. This is what gets chunked.
+ColumnTypeDescriptionjob_idTEXT PKSame ID as job_jsonjob_titleTEXTJob title (duplicated for fast access)date_scrapedTEXTWhen scrapedsource_urlTEXTOriginal URLraw_yamlTEXTStructured YAML with 4 sections
+The 4 YAML sections are:
+
+responsibilities → list of bullets
+basic_qualifications → list of bullets
+preferred_qualifications → list of bullets
+experience_years_min → scalar number
+
+
+job_chunks — the main chunk table
+Each job's YAML gets split into chunks, one per section (max 4 chunks per job). This is the primary table for retrieval. Currently holds 16,570 rows across 2,403 jobs.
+ColumnTypeDescriptionchunk_idSERIAL PKAuto-increment IDjob_idTEXT FKReferences job_jsonchunk_indexINTEGEROrder of chunk within the jobchunk_textTEXTThe actual text sent to the embedder. Format: "Job Title: X | Section: Y | content"embeddingVECTOR(768)BGE embedding of chunk_textchunk_sourceTEXTEither 'yaml' or 'json' — where the chunk came fromcategoryTEXTSection name: responsibilities, basic_qualifications, etc.overlapBOOLEANTRUE if chunk exceeded 512 tokens and was split into sub-chunks
+Retrieval rule:
+
+overlap = FALSE → use chunk_text directly
+overlap = TRUE → ignore chunk_text, go to chunk_overlaps instead
+
+
+chunk_overlaps — sub-chunks for oversized chunks
+When a chunk in job_chunks exceeds 512 tokens (the model's hard limit), it gets split here into smaller sub-chunks of ~400 tokens with 50-token overlap between them. Currently holds 2,924 rows from 1,203 oversized parent chunks.
+ColumnTypeDescriptionoverlap_idSERIAL PKAuto-increment IDsource_chunk_idINTEGER FKReferences the parent chunk in job_chunksjob_idTEXT FKReferences job_json (for direct filtering)overlap_indexINTEGEROrder of sub-chunk within its parent (0, 1, 2...)chunk_textTEXTSub-chunk text, same prefix format as parentembeddingVECTOR(768)BGE embedding of this sub-chunkcategoryTEXTInherited section name from parent chunk
+The 50-token overlap means context isn't lost at split boundaries — if a relevant sentence falls near a split point, it appears in both adjacent sub-chunks, improving retrieval quality.
+
+Relationships
+job_json ──────────── job_yaml          1:1   same job_id
+job_json ──────────── job_chunks        1:many  one job → up to 4 chunks
+job_json ──────────── chunk_overlaps    1:many  shortcut FK for fast filtering
+job_chunks ─────────── chunk_overlaps   1:many  one oversized chunk → 2-3 sub-chunks
+
+Numbers at a glance
+Jobs2,403YAML chunks7,887Oversized chunks (>512 tok)1,203 (15.3%)Sub-chunks2,924Total embeddings19,494Embedding modelBAAI/bge-base-en-v1.5Vector dimensions

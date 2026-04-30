@@ -1,0 +1,5 @@
+go to the folder : cd path of front end folder  using vite 
+
+npm run dev :   run the .jsx files and vite will transform them into html and css and javascript  so the browser can understand them
+
+

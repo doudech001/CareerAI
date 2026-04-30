@@ -1,0 +1,5282 @@
+{
+  "vector databases": {
+    "canonical": "vector databases",
+    "category": "databases",
+    "count": 14,
+    "seen_in": [
+      "7238249",
+      "7561723",
+      "7772205",
+      "8064952",
+      "8332596",
+      "8456478",
+      "8500563",
+      "8500569",
+      "8857516",
+      "8942286",
+      "8989828",
+      "9004854",
+      "9035194",
+      "9076254"
+    ]
+  },
+  "transformers": {
+    "canonical": "Transformers",
+    "category": "ai_ml",
+    "count": 13,
+    "seen_in": [
+      "7177057",
+      "7469357",
+      "8322530",
+      "8326967",
+      "8552498",
+      "8654994",
+      "8698167",
+      "8710706",
+      "8731676",
+      "8795822",
+      "8869401",
+      "9043755",
+      "9076114"
+    ]
+  },
+  ".net": {
+    "canonical": ".NET",
+    "category": "backend",
+    "count": 11,
+    "seen_in": [
+      "6995640",
+      "7660445",
+      "7926142",
+      "7940252",
+      "8439433",
+      "8470510",
+      "8628052",
+      "8923272",
+      "8929938",
+      "8935271",
+      "9044373"
+    ]
+  },
+  "guardrails": {
+    "canonical": "Guardrails",
+    "category": "ai_ml",
+    "count": 11,
+    "seen_in": [
+      "7575332",
+      "7575347",
+      "7597833",
+      "8017526",
+      "8028327",
+      "8218120",
+      "8415716",
+      "8553909",
+      "8618335",
+      "8866492",
+      "9094288"
+    ]
+  },
+  "vectordbs": {
+    "canonical": "VectorDBs",
+    "category": "databases",
+    "count": 11,
+    "seen_in": [
+      "7575336",
+      "7575347",
+      "7630264",
+      "8017526",
+      "8028327",
+      "8218120",
+      "8553909",
+      "8618346",
+      "8811960",
+      "8866492",
+      "8978116"
+    ]
+  },
+  "chatgpt": {
+    "canonical": "ChatGPT",
+    "category": "ai_ml",
+    "count": 8,
+    "seen_in": [
+      "7324071",
+      "8659329",
+      "8668549",
+      "8677649",
+      "8697577",
+      "8783400",
+      "8817555",
+      "9016101"
+    ]
+  },
+  "copilot": {
+    "canonical": "Copilot",
+    "category": "tools",
+    "count": 5,
+    "seen_in": [
+      "7707845",
+      "8120591",
+      "8639780",
+      "8819328",
+      "9032173"
+    ]
+  },
+  "azure machine learning": {
+    "canonical": "Azure Machine Learning",
+    "category": "devops_cloud",
+    "count": 5,
+    "seen_in": [
+      "7741104",
+      "8017519",
+      "8268044",
+      "8360020",
+      "9058619"
+    ]
+  },
+  "google cloud": {
+    "canonical": "Google Cloud",
+    "category": "devops_cloud",
+    "count": 5,
+    "seen_in": [
+      "8017519",
+      "8695321",
+      "8698165",
+      "8971630",
+      "9094288"
+    ]
+  },
+  "vectordb": {
+    "canonical": "VectorDB",
+    "category": "databases",
+    "count": 4,
+    "seen_in": [
+      "7597833",
+      "8415716",
+      "8783688",
+      "8921608"
+    ]
+  },
+  "ray serve": {
+    "canonical": "Ray Serve",
+    "category": "ai_ml",
+    "count": 4,
+    "seen_in": [
+      "7616152",
+      "8079020",
+      "8079025",
+      "8979115"
+    ]
+  },
+  "codex": {
+    "canonical": "Codex",
+    "category": "ai_ml",
+    "count": 4,
+    "seen_in": [
+      "7767224",
+      "8793779",
+      "8823028",
+      "8937242"
+    ]
+  },
+  "vector database": {
+    "canonical": "Vector Database",
+    "category": "databases",
+    "count": 4,
+    "seen_in": [
+      "8025892",
+      "8314732",
+      "8415698",
+      "8601515"
+    ]
+  },
+  "azure ai services": {
+    "canonical": "Azure AI services",
+    "category": "devops_cloud",
+    "count": 4,
+    "seen_in": [
+      "8153886",
+      "8258080",
+      "8360020",
+      "8918433"
+    ]
+  },
+  "openapi": {
+    "canonical": "OpenAPI",
+    "category": "backend",
+    "count": 4,
+    "seen_in": [
+      "8165929",
+      "8611786",
+      "9009587",
+      "9032158"
+    ]
+  },
+  "oracle": {
+    "canonical": "Oracle",
+    "category": "databases",
+    "count": 4,
+    "seen_in": [
+      "8812001",
+      "8979709",
+      "8979711",
+      "9069036"
+    ]
+  },
+  "gnns": {
+    "canonical": "GNNs",
+    "category": "ai_ml",
+    "count": 3,
+    "seen_in": [
+      "7272557",
+      "8654917",
+      "8853231"
+    ]
+  },
+  "azure ai foundry": {
+    "canonical": "Azure AI Foundry",
+    "category": "devops_cloud",
+    "count": 3,
+    "seen_in": [
+      "7592560",
+      "8783416",
+      "9059380"
+    ]
+  },
+  "azure cognitive services": {
+    "canonical": "Azure Cognitive Services",
+    "category": "ai_ml",
+    "count": 3,
+    "seen_in": [
+      "7592560",
+      "8783416",
+      "9086714"
+    ]
+  },
+  "vector dbs": {
+    "canonical": "vector DBs",
+    "category": "databases",
+    "count": 3,
+    "seen_in": [
+      "7602071",
+      "7758593",
+      "8596569"
+    ]
+  },
+  "microsoft teams": {
+    "canonical": "Microsoft Teams",
+    "category": "tools",
+    "count": 3,
+    "seen_in": [
+      "7743621",
+      "8397239",
+      "8822159"
+    ]
+  },
+  "fhir": {
+    "canonical": "FHIR",
+    "category": "tools",
+    "count": 3,
+    "seen_in": [
+      "7764485",
+      "8718097",
+      "8920635"
+    ]
+  },
+  "embabel": {
+    "canonical": "Embabel",
+    "category": "backend",
+    "count": 3,
+    "seen_in": [
+      "7874686",
+      "8306776",
+      "8725053"
+    ]
+  },
+  "eks": {
+    "canonical": "EKS",
+    "category": "devops_cloud",
+    "count": 3,
+    "seen_in": [
+      "8198846",
+      "8460315",
+      "8845827"
+    ]
+  },
+  "windows": {
+    "canonical": "Windows",
+    "category": "tools",
+    "count": 3,
+    "seen_in": [
+      "8283048",
+      "8852945",
+      "8911358"
+    ]
+  },
+  "unity catalog": {
+    "canonical": "Unity Catalog",
+    "category": "databases",
+    "count": 3,
+    "seen_in": [
+      "8415385",
+      "8783416",
+      "8812001"
+    ]
+  },
+  "cloudwatch": {
+    "canonical": "CloudWatch",
+    "category": "devops_cloud",
+    "count": 3,
+    "seen_in": [
+      "8415385",
+      "8783416",
+      "8980113"
+    ]
+  },
+  "vertex ai pipelines": {
+    "canonical": "Vertex AI Pipelines",
+    "category": "devops_cloud",
+    "count": 3,
+    "seen_in": [
+      "8435734",
+      "8719848",
+      "8942702"
+    ]
+  },
+  "azure sql": {
+    "canonical": "Azure SQL",
+    "category": "databases",
+    "count": 3,
+    "seen_in": [
+      "8493066",
+      "8812001",
+      "9060478"
+    ]
+  },
+  "rnn": {
+    "canonical": "RNN",
+    "category": "ai_ml",
+    "count": 3,
+    "seen_in": [
+      "8554807",
+      "8654994",
+      "8954582"
+    ]
+  },
+  "transformer": {
+    "canonical": "Transformer",
+    "category": "ai_ml",
+    "count": 3,
+    "seen_in": [
+      "8554807",
+      "8853227",
+      "9004747"
+    ]
+  },
+  "azure ml": {
+    "canonical": "Azure ML",
+    "category": "devops_cloud",
+    "count": 3,
+    "seen_in": [
+      "8588926",
+      "8847935",
+      "9002575"
+    ]
+  },
+  "ubuntu": {
+    "canonical": "Ubuntu",
+    "category": "tools",
+    "count": 3,
+    "seen_in": [
+      "8601796",
+      "8601801",
+      "8750559"
+    ]
+  },
+  "nvidia": {
+    "canonical": "NVIDIA",
+    "category": "devops_cloud",
+    "count": 3,
+    "seen_in": [
+      "8674839",
+      "8814105",
+      "8874511"
+    ]
+  },
+  "pub/sub": {
+    "canonical": "Pub/Sub",
+    "category": "backend",
+    "count": 2,
+    "seen_in": [
+      "6865028",
+      "8414840"
+    ]
+  },
+  "vlm": {
+    "canonical": "VLM",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "7111650",
+      "8167989"
+    ]
+  },
+  "diffusion models": {
+    "canonical": "diffusion models",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "7177057",
+      "7772079"
+    ]
+  },
+  "mq": {
+    "canonical": "MQ",
+    "category": "backend",
+    "count": 2,
+    "seen_in": [
+      "7298102",
+      "9060478"
+    ]
+  },
+  "jest": {
+    "canonical": "Jest",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "7412075",
+      "8845827"
+    ]
+  },
+  "cpu": {
+    "canonical": "CPU",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "7460320",
+      "8681653"
+    ]
+  },
+  "microsoft copilot": {
+    "canonical": "Microsoft Copilot",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "7592560",
+      "8430137"
+    ]
+  },
+  "spanner graph": {
+    "canonical": "Spanner Graph",
+    "category": "databases",
+    "count": 2,
+    "seen_in": [
+      "7699955",
+      "8942702"
+    ]
+  },
+  "ros": {
+    "canonical": "ROS",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "7772191",
+      "8327260"
+    ]
+  },
+  "azure monitor": {
+    "canonical": "Azure Monitor",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "7801916",
+      "8783416"
+    ]
+  },
+  "scikit": {
+    "canonical": "SciKit",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "7900686",
+      "8770746"
+    ]
+  },
+  "federated learning": {
+    "canonical": "federated learning",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "7981389",
+      "8314039"
+    ]
+  },
+  "fpga": {
+    "canonical": "FPGA",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8123995",
+      "8866560"
+    ]
+  },
+  "reasoning engine": {
+    "canonical": "Reasoning Engine",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8268819",
+      "8268859"
+    ]
+  },
+  "containers": {
+    "canonical": "containers",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8270037",
+      "9072005"
+    ]
+  },
+  "feature store": {
+    "canonical": "Feature Store",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8280524",
+      "8812001"
+    ]
+  },
+  "bitbucket": {
+    "canonical": "Bitbucket",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8319536",
+      "8922599"
+    ]
+  },
+  "microsoft copilot studio": {
+    "canonical": "Microsoft Copilot Studio",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8319536",
+      "8473581"
+    ]
+  },
+  "glue": {
+    "canonical": "Glue",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8324545",
+      "9044622"
+    ]
+  },
+  "active directory": {
+    "canonical": "Active Directory",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8330129",
+      "8816051"
+    ]
+  },
+  "github ai": {
+    "canonical": "GitHub AI",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8339770",
+      "8644033"
+    ]
+  },
+  "whatsapp": {
+    "canonical": "WhatsApp",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8365062",
+      "8365111"
+    ]
+  },
+  "aks": {
+    "canonical": "AKS",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8373747",
+      "9101202"
+    ]
+  },
+  "jvm": {
+    "canonical": "JVM",
+    "category": "backend",
+    "count": 2,
+    "seen_in": [
+      "8379200",
+      "8923929"
+    ]
+  },
+  "oauth": {
+    "canonical": "OAuth",
+    "category": "backend",
+    "count": 2,
+    "seen_in": [
+      "8390670",
+      "8573119"
+    ]
+  },
+  "arize": {
+    "canonical": "Arize",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8414983",
+      "9047544"
+    ]
+  },
+  "gpt-3": {
+    "canonical": "GPT-3",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8434162",
+      "8435198"
+    ]
+  },
+  "key vault": {
+    "canonical": "Key Vault",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8473581",
+      "8812001"
+    ]
+  },
+  "openai codex": {
+    "canonical": "OpenAI Codex",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8520076",
+      "8755070"
+    ]
+  },
+  "gemini cli": {
+    "canonical": "Gemini CLI",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8520076",
+      "8793779"
+    ]
+  },
+  "google agent development kit": {
+    "canonical": "Google Agent Development Kit",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8530263",
+      "8782226"
+    ]
+  },
+  "ai platform": {
+    "canonical": "AI Platform",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8530263",
+      "8725547"
+    ]
+  },
+  "tcp/ip": {
+    "canonical": "TCP/IP",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8535523",
+      "9008937"
+    ]
+  },
+  "iam": {
+    "canonical": "IAM",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8541149",
+      "9101006"
+    ]
+  },
+  "jwt": {
+    "canonical": "JWT",
+    "category": "backend",
+    "count": 2,
+    "seen_in": [
+      "8573119",
+      "9032158"
+    ]
+  },
+  "html5": {
+    "canonical": "HTML5",
+    "category": "languages",
+    "count": 2,
+    "seen_in": [
+      "8585700",
+      "8628052"
+    ]
+  },
+  "sass": {
+    "canonical": "SASS",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8599435",
+      "8666877"
+    ]
+  },
+  "graphrag": {
+    "canonical": "GraphRAG",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8601238",
+      "9086244"
+    ]
+  },
+  "rhel": {
+    "canonical": "RHEL",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8601796",
+      "8750559"
+    ]
+  },
+  "redhat": {
+    "canonical": "RedHat",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8601801",
+      "8612246"
+    ]
+  },
+  "palantir": {
+    "canonical": "Palantir",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8603650",
+      "8922885"
+    ]
+  },
+  "greenhouse": {
+    "canonical": "Greenhouse",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8615779",
+      "8850720"
+    ]
+  },
+  "google cloud ai": {
+    "canonical": "Google Cloud AI",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8632889",
+      "9107175"
+    ]
+  },
+  "xml": {
+    "canonical": "XML",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8650232",
+      "8866136"
+    ]
+  },
+  "ai search": {
+    "canonical": "AI Search",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8663109",
+      "8840088"
+    ]
+  },
+  "pulsar": {
+    "canonical": "Pulsar",
+    "category": "backend",
+    "count": 2,
+    "seen_in": [
+      "8668549",
+      "8931748"
+    ]
+  },
+  "langraph": {
+    "canonical": "Langraph",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8698165",
+      "8698167"
+    ]
+  },
+  "bicep": {
+    "canonical": "Bicep",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8722060",
+      "8783416"
+    ]
+  },
+  "objective-c": {
+    "canonical": "Objective-C",
+    "category": "languages",
+    "count": 2,
+    "seen_in": [
+      "8771346",
+      "9061591"
+    ]
+  },
+  "sql server management studio": {
+    "canonical": "SQL Server Management Studio",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8785826",
+      "8794162"
+    ]
+  },
+  "rnns": {
+    "canonical": "RNNs",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8795822",
+      "9076114"
+    ]
+  },
+  "adobe launch": {
+    "canonical": "Adobe Launch",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8823028",
+      "9093369"
+    ]
+  },
+  "yolo": {
+    "canonical": "YOLO",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8846501",
+      "8922599"
+    ]
+  },
+  "workato": {
+    "canonical": "Workato",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8850720",
+      "8890279"
+    ]
+  },
+  "scale ai": {
+    "canonical": "Scale AI",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8853780",
+      "8922885"
+    ]
+  },
+  "vast data": {
+    "canonical": "VAST Data",
+    "category": "devops_cloud",
+    "count": 2,
+    "seen_in": [
+      "8874511",
+      "8874522"
+    ]
+  },
+  "h2o wave": {
+    "canonical": "H2O Wave",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8874511",
+      "8970310"
+    ]
+  },
+  "moveworks platform": {
+    "canonical": "Moveworks Platform",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8897011",
+      "8897044"
+    ]
+  },
+  "jira service desk": {
+    "canonical": "Jira Service Desk",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8897117",
+      "8911358"
+    ]
+  },
+  "power platform": {
+    "canonical": "Power Platform",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8918433",
+      "8994263"
+    ]
+  },
+  "alteryx": {
+    "canonical": "Alteryx",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8936207",
+      "9002575"
+    ]
+  },
+  "agentic ai systems": {
+    "canonical": "agentic AI systems",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8950390",
+      "8950391"
+    ]
+  },
+  "multi-agent architectures": {
+    "canonical": "multi-agent architectures",
+    "category": "ai_ml",
+    "count": 2,
+    "seen_in": [
+      "8950390",
+      "8950391"
+    ]
+  },
+  "unix": {
+    "canonical": "Unix",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8969316",
+      "9064940"
+    ]
+  },
+  "codeium": {
+    "canonical": "Codeium",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "8977778",
+      "8977782"
+    ]
+  },
+  "dynamo": {
+    "canonical": "Dynamo",
+    "category": "databases",
+    "count": 2,
+    "seen_in": [
+      "8994937",
+      "9047346"
+    ]
+  },
+  "teradata": {
+    "canonical": "Teradata",
+    "category": "databases",
+    "count": 2,
+    "seen_in": [
+      "9002575",
+      "9002578"
+    ]
+  },
+  "ai hub": {
+    "canonical": "AI Hub",
+    "category": "tools",
+    "count": 2,
+    "seen_in": [
+      "9007915",
+      "9007922"
+    ]
+  },
+  "ember": {
+    "canonical": "Ember",
+    "category": "frontend",
+    "count": 2,
+    "seen_in": [
+      "9066540",
+      "9066543"
+    ]
+  },
+  "aws cdk": {
+    "canonical": "AWS CDK",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "6330562"
+    ]
+  },
+  "service cloud": {
+    "canonical": "Service Cloud",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "6726472"
+    ]
+  },
+  "sales cloud": {
+    "canonical": "Sales Cloud",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "6726472"
+    ]
+  },
+  "marketing cloud": {
+    "canonical": "Marketing Cloud",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "6726472"
+    ]
+  },
+  "enterprise graph": {
+    "canonical": "Enterprise Graph",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "6857780"
+    ]
+  },
+  "personal knowledge graph": {
+    "canonical": "Personal Knowledge Graph",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "6857780"
+    ]
+  },
+  "openai ada": {
+    "canonical": "OpenAI Ada",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7001049"
+    ]
+  },
+  "flashattention": {
+    "canonical": "FlashAttention",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7033209"
+    ]
+  },
+  "ppo": {
+    "canonical": "PPO",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7082114"
+    ]
+  },
+  "sac": {
+    "canonical": "SAC",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7082114"
+    ]
+  },
+  "td3": {
+    "canonical": "TD3",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7082114"
+    ]
+  },
+  "zero data ai cloud": {
+    "canonical": "Zero Data AI Cloud",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7099527"
+    ]
+  },
+  "vlms": {
+    "canonical": "VLMs",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7111646"
+    ]
+  },
+  "cmdb": {
+    "canonical": "CMDB",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "7149858"
+    ]
+  },
+  "cua evaluation framework": {
+    "canonical": "CUA evaluation framework",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7155348"
+    ]
+  },
+  "mixture of experts": {
+    "canonical": "Mixture of Experts",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7177057"
+    ]
+  },
+  "nvidia gpu architecture": {
+    "canonical": "NVIDIA GPU architecture",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7262346"
+    ]
+  },
+  "wafer-scale engine": {
+    "canonical": "Wafer-Scale Engine",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7302390"
+    ]
+  },
+  "secs/gem": {
+    "canonical": "SECS/GEM",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7309014"
+    ]
+  },
+  "mes": {
+    "canonical": "MES",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7309014"
+    ]
+  },
+  "spc": {
+    "canonical": "SPC",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7309014"
+    ]
+  },
+  "kla": {
+    "canonical": "KLA",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7309014"
+    ]
+  },
+  "amat": {
+    "canonical": "AMAT",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7309014"
+    ]
+  },
+  "tel": {
+    "canonical": "TEL",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7309014"
+    ]
+  },
+  "asml": {
+    "canonical": "ASML",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7309014"
+    ]
+  },
+  "nvidia dgx clusters": {
+    "canonical": "NVIDIA DGX clusters",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7316035"
+    ]
+  },
+  "gpu computing": {
+    "canonical": "GPU computing",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7316035"
+    ]
+  },
+  "advanced ai/ml algorithms": {
+    "canonical": "advanced AI/ML algorithms",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7316035"
+    ]
+  },
+  "composite ai solutions": {
+    "canonical": "composite AI solutions",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7316035"
+    ]
+  },
+  "differential privacy": {
+    "canonical": "differential privacy",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7316035"
+    ]
+  },
+  "aws emr": {
+    "canonical": "AWS EMR",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7316269"
+    ]
+  },
+  "perplexity": {
+    "canonical": "Perplexity",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7318507"
+    ]
+  },
+  "verint ai": {
+    "canonical": "Verint AI",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7358297"
+    ]
+  },
+  "claude computer-use": {
+    "canonical": "Claude Computer-Use",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7372132"
+    ]
+  },
+  "openai voice mode": {
+    "canonical": "OpenAI voice mode",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7372132"
+    ]
+  },
+  "chat completion": {
+    "canonical": "Chat Completion",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7387463"
+    ]
+  },
+  "google": {
+    "canonical": "Google",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7388063"
+    ]
+  },
+  "microsoft": {
+    "canonical": "Microsoft",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7388063"
+    ]
+  },
+  "93k test platform": {
+    "canonical": "93K test platform",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7398259"
+    ]
+  },
+  "microsoft office suite": {
+    "canonical": "Microsoft Office Suite",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7418099"
+    ]
+  },
+  "big query": {
+    "canonical": "Big Query",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7425417"
+    ]
+  },
+  "x86 architecture": {
+    "canonical": "x86 architecture",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7460320"
+    ]
+  },
+  "bertscore": {
+    "canonical": "BERTScore",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7495794"
+    ]
+  },
+  "soql": {
+    "canonical": "SOQL",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "7562172"
+    ]
+  },
+  "sosl": {
+    "canonical": "SOSL",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "7562172"
+    ]
+  },
+  "visualforce": {
+    "canonical": "Visualforce",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "7562172"
+    ]
+  },
+  "sfdx": {
+    "canonical": "SFDX",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7562172"
+    ]
+  },
+  "einstein": {
+    "canonical": "Einstein",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7562172"
+    ]
+  },
+  "data cloud": {
+    "canonical": "Data Cloud",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7562172"
+    ]
+  },
+  "mosaic": {
+    "canonical": "Mosaic",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7569533"
+    ]
+  },
+  "azure functions": {
+    "canonical": "Azure Functions",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7592560"
+    ]
+  },
+  "azure logic apps": {
+    "canonical": "Azure Logic Apps",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7592560"
+    ]
+  },
+  "azure storage": {
+    "canonical": "Azure Storage",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7592560"
+    ]
+  },
+  "azure compute services": {
+    "canonical": "Azure Compute Services",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7592560"
+    ]
+  },
+  "inductor": {
+    "canonical": "Inductor",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7655983"
+    ]
+  },
+  "llvm": {
+    "canonical": "LLVM",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7655983"
+    ]
+  },
+  "cuda graph": {
+    "canonical": "CUDA Graph",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7655983"
+    ]
+  },
+  "lustre": {
+    "canonical": "Lustre",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "7658190"
+    ]
+  },
+  "gpfs": {
+    "canonical": "GPFS",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "7658190"
+    ]
+  },
+  "mitre atlas": {
+    "canonical": "MITRE ATLAS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7660445"
+    ]
+  },
+  "retrieval-augmented workflows": {
+    "canonical": "retrieval-augmented workflows",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7686946"
+    ]
+  },
+  "prompt optimization": {
+    "canonical": "prompt optimization",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7686946"
+    ]
+  },
+  "hacker news": {
+    "canonical": "Hacker News",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7706111"
+    ]
+  },
+  "arxiv": {
+    "canonical": "arXiv",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7706111"
+    ]
+  },
+  "gcs": {
+    "canonical": "GCS",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7709753"
+    ]
+  },
+  "apollo": {
+    "canonical": "Apollo",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7754740"
+    ]
+  },
+  "hl7 v2": {
+    "canonical": "HL7 v2",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7764485"
+    ]
+  },
+  "x12": {
+    "canonical": "X12",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7764485"
+    ]
+  },
+  "bubble": {
+    "canonical": "Bubble",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7775134"
+    ]
+  },
+  "datologyai": {
+    "canonical": "DatologyAI",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7779128"
+    ]
+  },
+  "huggingface-transformer": {
+    "canonical": "huggingface-transformer",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7787774"
+    ]
+  },
+  "quadric": {
+    "canonical": "Quadric",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7787774"
+    ]
+  },
+  "datarobot": {
+    "canonical": "DataRobot",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7801916"
+    ]
+  },
+  "elk stack": {
+    "canonical": "ELK stack",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7801916"
+    ]
+  },
+  "gemma": {
+    "canonical": "Gemma",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7801916"
+    ]
+  },
+  "code llama": {
+    "canonical": "Code Llama",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7801916"
+    ]
+  },
+  "qwen": {
+    "canonical": "Qwen",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7801916"
+    ]
+  },
+  "chronon": {
+    "canonical": "Chronon",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7801916"
+    ]
+  },
+  "feast": {
+    "canonical": "Feast",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7801916"
+    ]
+  },
+  "tecton": {
+    "canonical": "Tecton",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7801916"
+    ]
+  },
+  "requests": {
+    "canonical": "requests",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7887849"
+    ]
+  },
+  "rlaif": {
+    "canonical": "RLAIF",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7893222"
+    ]
+  },
+  "dpo": {
+    "canonical": "DPO",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7893222"
+    ]
+  },
+  "polar sky": {
+    "canonical": "Polar Sky",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7906220"
+    ]
+  },
+  "azure speech": {
+    "canonical": "Azure Speech",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7926151"
+    ]
+  },
+  "azure vision": {
+    "canonical": "Azure Vision",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7926151"
+    ]
+  },
+  "sharepoint framework": {
+    "canonical": "SharePoint Framework",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "7940252"
+    ]
+  },
+  "viva suite components": {
+    "canonical": "Viva Suite Components",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "7940252"
+    ]
+  },
+  "com": {
+    "canonical": "COM",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7940252"
+    ]
+  },
+  "modern add-ins": {
+    "canonical": "Modern Add-ins",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7940252"
+    ]
+  },
+  "rlvr": {
+    "canonical": "RLVR",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "7979727"
+    ]
+  },
+  "schema.org": {
+    "canonical": "schema.org",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "7983911"
+    ]
+  },
+  "gs1": {
+    "canonical": "GS1",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "7983911"
+    ]
+  },
+  "etim": {
+    "canonical": "ETIM",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "7983911"
+    ]
+  },
+  "unspsc": {
+    "canonical": "UNSPSC",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "7983911"
+    ]
+  },
+  "ecl@ss": {
+    "canonical": "eCl@ss",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "7983911"
+    ]
+  },
+  "blueflame ai": {
+    "canonical": "Blueflame AI",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "7988255"
+    ]
+  },
+  "slack ai": {
+    "canonical": "Slack AI",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8021315"
+    ]
+  },
+  "tgi": {
+    "canonical": "TGI",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8040347"
+    ]
+  },
+  "systemverilog": {
+    "canonical": "SystemVerilog",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "8053653"
+    ]
+  },
+  "bmc": {
+    "canonical": "BMC",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8063254"
+    ]
+  },
+  "ocp": {
+    "canonical": "OCP",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8063254"
+    ]
+  },
+  "hex": {
+    "canonical": "Hex",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8074529"
+    ]
+  },
+  "notebook agent": {
+    "canonical": "Notebook Agent",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8074529"
+    ]
+  },
+  "llm-d": {
+    "canonical": "llm-d",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8079025"
+    ]
+  },
+  "nvidia dynamo": {
+    "canonical": "NVIDIA Dynamo",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8079025"
+    ]
+  },
+  "nvlink": {
+    "canonical": "NVlink",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8079025"
+    ]
+  },
+  "xgmi": {
+    "canonical": "XGMI",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8079025"
+    ]
+  },
+  "roce": {
+    "canonical": "RoCE",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8079025"
+    ]
+  },
+  "modular": {
+    "canonical": "Modular",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8079025"
+    ]
+  },
+  "gls": {
+    "canonical": "GLS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8084736"
+    ]
+  },
+  "chatgpt enterprise": {
+    "canonical": "ChatGPT Enterprise",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8085817"
+    ]
+  },
+  "mcim": {
+    "canonical": "MCIM",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8105598"
+    ]
+  },
+  "cloudflare workers": {
+    "canonical": "Cloudflare Workers",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8106882"
+    ]
+  },
+  "salesforce lightning design system (slds)": {
+    "canonical": "Salesforce Lightning Design System (SLDS)",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "8133686"
+    ]
+  },
+  "copado crt": {
+    "canonical": "Copado CRT",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8133686"
+    ]
+  },
+  "materia ai": {
+    "canonical": "Materia AI",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8147545"
+    ]
+  },
+  "google ai": {
+    "canonical": "Google AI",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8148978"
+    ]
+  },
+  "google spanner": {
+    "canonical": "Google Spanner",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8154903"
+    ]
+  },
+  "google pub/sub": {
+    "canonical": "Google Pub/Sub",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8154903"
+    ]
+  },
+  "sentence transformers": {
+    "canonical": "sentence transformers",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8167631"
+    ]
+  },
+  "cpt": {
+    "canonical": "CPT",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8167989"
+    ]
+  },
+  "mig": {
+    "canonical": "MIG",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8198846"
+    ]
+  },
+  "kustomize": {
+    "canonical": "Kustomize",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8198846"
+    ]
+  },
+  "agent sdk": {
+    "canonical": "Agent SDK",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8208731"
+    ]
+  },
+  "msteams": {
+    "canonical": "MSTeams",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8229954"
+    ]
+  },
+  "spark streaming": {
+    "canonical": "Spark Streaming",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8250426"
+    ]
+  },
+  "rocket copilot": {
+    "canonical": "Rocket Copilot",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8256052"
+    ]
+  },
+  "fast api": {
+    "canonical": "Fast API",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8256675"
+    ]
+  },
+  "agentic ai assistant": {
+    "canonical": "Agentic AI Assistant",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8268816"
+    ]
+  },
+  "moveworks": {
+    "canonical": "Moveworks",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8268845"
+    ]
+  },
+  "ue5": {
+    "canonical": "UE5",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8276990"
+    ]
+  },
+  "ai debugging tools": {
+    "canonical": "AI Debugging Tools",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8276990"
+    ]
+  },
+  "model registry": {
+    "canonical": "Model Registry",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8280524"
+    ]
+  },
+  "npu": {
+    "canonical": "NPU",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8283048"
+    ]
+  },
+  "arm": {
+    "canonical": "ARM",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8283048"
+    ]
+  },
+  "rtx ai platform": {
+    "canonical": "RTX AI platform",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8283048"
+    ]
+  },
+  "agentic ai platform": {
+    "canonical": "Agentic AI Platform",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8292031"
+    ]
+  },
+  "standard bots ro1": {
+    "canonical": "Standard Bots RO1",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8293494"
+    ]
+  },
+  "diffusion": {
+    "canonical": "diffusion",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8296470"
+    ]
+  },
+  "autoregressive": {
+    "canonical": "autoregressive",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8296470"
+    ]
+  },
+  "beeper": {
+    "canonical": "Beeper",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8296667"
+    ]
+  },
+  "pocket casts": {
+    "canonical": "Pocket Casts",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8296667"
+    ]
+  },
+  "simplenote": {
+    "canonical": "Simplenote",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8296667"
+    ]
+  },
+  "longreads": {
+    "canonical": "Longreads",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8296667"
+    ]
+  },
+  "day one": {
+    "canonical": "Day One",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8296667"
+    ]
+  },
+  "tumblr": {
+    "canonical": "Tumblr",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8296667"
+    ]
+  },
+  "agent core": {
+    "canonical": "Agent Core",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8303140"
+    ]
+  },
+  "edge": {
+    "canonical": "edge",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8314039"
+    ]
+  },
+  "scada": {
+    "canonical": "SCADA",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8314039"
+    ]
+  },
+  "betterup coach": {
+    "canonical": "BetterUp Coach",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8314375"
+    ]
+  },
+  "rubrik security cloud": {
+    "canonical": "Rubrik Security Cloud",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8316061"
+    ]
+  },
+  "azure machine learning (aml)": {
+    "canonical": "Azure Machine Learning (AML)",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8322343"
+    ]
+  },
+  "t5": {
+    "canonical": "T5",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8322530"
+    ]
+  },
+  "neptune": {
+    "canonical": "Neptune",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8324545"
+    ]
+  },
+  "ocr": {
+    "canonical": "OCR",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8324545"
+    ]
+  },
+  "ros 2": {
+    "canonical": "ROS 2",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8327260"
+    ]
+  },
+  "oscilloscopes": {
+    "canonical": "oscilloscopes",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8331783"
+    ]
+  },
+  "multimeters": {
+    "canonical": "multimeters",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8331783"
+    ]
+  },
+  "azure ad": {
+    "canonical": "Azure AD",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8348589"
+    ]
+  },
+  "deep learning containers (dlc)": {
+    "canonical": "Deep Learning Containers (DLC)",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8363893"
+    ]
+  },
+  "openai assistants": {
+    "canonical": "OpenAI Assistants",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8364892"
+    ]
+  },
+  ".net framework": {
+    "canonical": ".Net Framework",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8364892"
+    ]
+  },
+  "web apis": {
+    "canonical": "Web APIs",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8364892"
+    ]
+  },
+  "google ai sdk": {
+    "canonical": "Google AI SDK",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8365111"
+    ]
+  },
+  "asp.net core": {
+    "canonical": "ASP.NET Core",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8373747"
+    ]
+  },
+  "nemo microservices": {
+    "canonical": "Nemo Microservices",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8408780"
+    ]
+  },
+  "kinesis": {
+    "canonical": "Kinesis",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8414840"
+    ]
+  },
+  "singlestore": {
+    "canonical": "SingleStore",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8414840"
+    ]
+  },
+  "great expectations": {
+    "canonical": "Great Expectations",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8414840"
+    ]
+  },
+  "deequ": {
+    "canonical": "Deequ",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8414840"
+    ]
+  },
+  "ms copilot": {
+    "canonical": "MS CoPilot",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8430136"
+    ]
+  },
+  "nvidia generative ai": {
+    "canonical": "NVIDIA Generative AI",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8433154"
+    ]
+  },
+  "physical ai": {
+    "canonical": "Physical AI",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8433154"
+    ]
+  },
+  "snowflake cortex analyst": {
+    "canonical": "Snowflake Cortex Analyst",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8435734"
+    ]
+  },
+  "snowflake cortex search": {
+    "canonical": "Snowflake Cortex Search",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8435734"
+    ]
+  },
+  "snowflake intelligence": {
+    "canonical": "Snowflake Intelligence",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8435734"
+    ]
+  },
+  "google rag engine": {
+    "canonical": "Google RAG Engine",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8435734"
+    ]
+  },
+  "gin": {
+    "canonical": "Gin",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8443418"
+    ]
+  },
+  "mongo db": {
+    "canonical": "Mongo DB",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8443418"
+    ]
+  },
+  "jemkins": {
+    "canonical": "Jemkins",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8443418"
+    ]
+  },
+  "module federation": {
+    "canonical": "module federation",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8446122"
+    ]
+  },
+  "g5": {
+    "canonical": "G5",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8460315"
+    ]
+  },
+  "p4": {
+    "canonical": "P4",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8460315"
+    ]
+  },
+  "xml/jats": {
+    "canonical": "XML/JATS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8461859"
+    ]
+  },
+  "aws fargate": {
+    "canonical": "AWS Fargate",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8469959"
+    ]
+  },
+  "hp iq": {
+    "canonical": "HP IQ",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8472097"
+    ]
+  },
+  "container registry": {
+    "canonical": "Container Registry",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8473581"
+    ]
+  },
+  "nvidia nemo": {
+    "canonical": "NVIDIA NeMo",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8484915"
+    ]
+  },
+  "nvidia deep learning platform": {
+    "canonical": "NVIDIA Deep Learning Platform",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8485095"
+    ]
+  },
+  "windows services": {
+    "canonical": "Windows Services",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8490306"
+    ]
+  },
+  "traksys™ platform": {
+    "canonical": "TrakSYS™ platform",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8490306"
+    ]
+  },
+  "vertex ai vector search": {
+    "canonical": "Vertex AI Vector Search",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8496277"
+    ]
+  },
+  "dlt": {
+    "canonical": "DLT",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8497152"
+    ]
+  },
+  "uais": {
+    "canonical": "UAIS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8504839"
+    ]
+  },
+  "mlrb": {
+    "canonical": "MLRB",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8504839"
+    ]
+  },
+  "online store 2.0": {
+    "canonical": "Online Store 2.0",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8520667"
+    ]
+  },
+  "google cloud functions": {
+    "canonical": "Google Cloud Functions",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8530263"
+    ]
+  },
+  "api gateway": {
+    "canonical": "API Gateway",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8530263"
+    ]
+  },
+  "google kubernetes engine (gke)": {
+    "canonical": "Google Kubernetes Engine (GKE)",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8530263"
+    ]
+  },
+  "udp": {
+    "canonical": "UDP",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8535523"
+    ]
+  },
+  "sctp": {
+    "canonical": "SCTP",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8535523"
+    ]
+  },
+  "graph databases": {
+    "canonical": "Graph databases",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8538430"
+    ]
+  },
+  "graph query languages": {
+    "canonical": "graph query languages",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8538430"
+    ]
+  },
+  "graph ml techniques": {
+    "canonical": "graph ML techniques",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8538430"
+    ]
+  },
+  "microsoft graph": {
+    "canonical": "Microsoft Graph",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8541071"
+    ]
+  },
+  "ifs cloud": {
+    "canonical": "IFS Cloud",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8551129"
+    ]
+  },
+  "business events": {
+    "canonical": "Business Events",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8551129"
+    ]
+  },
+  "hugging face transformers": {
+    "canonical": "Hugging Face Transformers",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8551241"
+    ]
+  },
+  "trl": {
+    "canonical": "TRL",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8551241"
+    ]
+  },
+  "nsight systems": {
+    "canonical": "NSight Systems",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8553887"
+    ]
+  },
+  "nsight compute": {
+    "canonical": "NSight Compute",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8553887"
+    ]
+  },
+  "lstm": {
+    "canonical": "LSTM",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8554807"
+    ]
+  },
+  "deep q-network": {
+    "canonical": "Deep Q-Network",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8554807"
+    ]
+  },
+  "graph neural network": {
+    "canonical": "Graph Neural Network",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8554807"
+    ]
+  },
+  "openai api": {
+    "canonical": "OpenAI API",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8568173"
+    ]
+  },
+  "databricks workflows": {
+    "canonical": "Databricks Workflows",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8568231"
+    ]
+  },
+  "autonomous driving data sdk": {
+    "canonical": "Autonomous Driving Data SDK",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8568231"
+    ]
+  },
+  "freertos": {
+    "canonical": "FreeRTOS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8575240"
+    ]
+  },
+  "zephyr": {
+    "canonical": "Zephyr",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8575240"
+    ]
+  },
+  "advantest cloud solutions": {
+    "canonical": "Advantest Cloud Solutions",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8576995"
+    ]
+  },
+  "v93000 ate": {
+    "canonical": "V93000 ATE",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8579747"
+    ]
+  },
+  "vxworks": {
+    "canonical": "VxWorks",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8580952"
+    ]
+  },
+  "vehicle hal (vhal)": {
+    "canonical": "Vehicle HAL (VHAL)",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8580952"
+    ]
+  },
+  "mitre att&ck": {
+    "canonical": "MITRE ATT&CK",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8588926"
+    ]
+  },
+  "il4/il5": {
+    "canonical": "IL4/IL5",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8591487"
+    ]
+  },
+  "aiqa": {
+    "canonical": "AIQA",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8596626"
+    ]
+  },
+  "trust agent": {
+    "canonical": "Trust Agent",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8596626"
+    ]
+  },
+  "vrm agent": {
+    "canonical": "VRM Agent",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8596626"
+    ]
+  },
+  "abm": {
+    "canonical": "ABM",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8599773"
+    ]
+  },
+  "bonding": {
+    "canonical": "Bonding",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8600537"
+    ]
+  },
+  "suse": {
+    "canonical": "SUSE",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8601796"
+    ]
+  },
+  "linux shell": {
+    "canonical": "Linux Shell",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8601796"
+    ]
+  },
+  "restful api": {
+    "canonical": "RESTful API",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8601796"
+    ]
+  },
+  "sles": {
+    "canonical": "SLES",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8601801"
+    ]
+  },
+  "android auto": {
+    "canonical": "Android Auto",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8610148"
+    ]
+  },
+  "carplay": {
+    "canonical": "CarPlay",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8610148"
+    ]
+  },
+  "can": {
+    "canonical": "CAN",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8610148"
+    ]
+  },
+  "lin": {
+    "canonical": "LIN",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8610148"
+    ]
+  },
+  "workos": {
+    "canonical": "WorkOS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8611948"
+    ]
+  },
+  "vpc": {
+    "canonical": "VPC",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8614814"
+    ]
+  },
+  "composer": {
+    "canonical": "Composer",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8618253"
+    ]
+  },
+  "css3": {
+    "canonical": "CSS3",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "8628052"
+    ]
+  },
+  "pcd": {
+    "canonical": "PCD",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8629385"
+    ]
+  },
+  "las": {
+    "canonical": "LAS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8629385"
+    ]
+  },
+  "ply": {
+    "canonical": "PLY",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8629385"
+    ]
+  },
+  "checkatrade": {
+    "canonical": "Checkatrade",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8633957"
+    ]
+  },
+  "bluetooth": {
+    "canonical": "Bluetooth",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8634334"
+    ]
+  },
+  "graph neural networks": {
+    "canonical": "graph neural networks",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8638955"
+    ]
+  },
+  "knowledge graphs": {
+    "canonical": "knowledge graphs",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8638955"
+    ]
+  },
+  "eclipse": {
+    "canonical": "Eclipse",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8642007"
+    ]
+  },
+  "vector network analyzer": {
+    "canonical": "Vector Network Analyzer",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8652150"
+    ]
+  },
+  "time domain reflectometer": {
+    "canonical": "Time Domain Reflectometer",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8652150"
+    ]
+  },
+  "bit error rate tester": {
+    "canonical": "Bit Error Rate Tester",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8652150"
+    ]
+  },
+  "cnn": {
+    "canonical": "CNN",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8654994"
+    ]
+  },
+  "r-cnn": {
+    "canonical": "R-CNN",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8654994"
+    ]
+  },
+  "gan": {
+    "canonical": "GAN",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8654994"
+    ]
+  },
+  "autoencoders": {
+    "canonical": "autoencoders",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8654994"
+    ]
+  },
+  "claude cowork": {
+    "canonical": "Claude Cowork",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8663109"
+    ]
+  },
+  "micro frontends": {
+    "canonical": "Micro Frontends",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "8666877"
+    ]
+  },
+  "agentic orchestration": {
+    "canonical": "Agentic Orchestration",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8666877"
+    ]
+  },
+  "agent orchestration": {
+    "canonical": "Agent Orchestration",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8666877"
+    ]
+  },
+  "semantic query": {
+    "canonical": "Semantic Query",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8666877"
+    ]
+  },
+  "dsp": {
+    "canonical": "DSP",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8668169"
+    ]
+  },
+  "ssp": {
+    "canonical": "SSP",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8668169"
+    ]
+  },
+  "rtb": {
+    "canonical": "RTB",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8668169"
+    ]
+  },
+  "sml": {
+    "canonical": "SML",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "8674680"
+    ]
+  },
+  "dell": {
+    "canonical": "Dell",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8674839"
+    ]
+  },
+  "aws sagemaker": {
+    "canonical": "AWS SageMaker",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8675947"
+    ]
+  },
+  "next": {
+    "canonical": "Next",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "8677649"
+    ]
+  },
+  "glean": {
+    "canonical": "Glean",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8677649"
+    ]
+  },
+  "nuxt.js": {
+    "canonical": "Nuxt.js",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "8678914"
+    ]
+  },
+  "integromat": {
+    "canonical": "Integromat",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8680012"
+    ]
+  },
+  "gpu": {
+    "canonical": "GPU",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8681653"
+    ]
+  },
+  "gai conversational framework": {
+    "canonical": "GAI conversational framework",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8682524"
+    ]
+  },
+  "llm-as-a-judge": {
+    "canonical": "LLM-as-a-judge",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8695488"
+    ]
+  },
+  "symfony": {
+    "canonical": "Symfony",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8698195"
+    ]
+  },
+  "asana": {
+    "canonical": "Asana",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8698195"
+    ]
+  },
+  "trello": {
+    "canonical": "Trello",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8698195"
+    ]
+  },
+  "typing": {
+    "canonical": "typing",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8703086"
+    ]
+  },
+  "aws glue": {
+    "canonical": "AWS Glue",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8703279"
+    ]
+  },
+  "aws step functions": {
+    "canonical": "AWS Step Functions",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8703279"
+    ]
+  },
+  "amazon emr": {
+    "canonical": "Amazon EMR",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8703279"
+    ]
+  },
+  "cortex": {
+    "canonical": "Cortex",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8709662"
+    ]
+  },
+  "spring cloud": {
+    "canonical": "Spring Cloud",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8725053"
+    ]
+  },
+  "edison": {
+    "canonical": "Edison",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8725207"
+    ]
+  },
+  "flash attention": {
+    "canonical": "Flash Attention",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8725785"
+    ]
+  },
+  "language server protocols": {
+    "canonical": "Language Server Protocols",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8729122"
+    ]
+  },
+  "covey": {
+    "canonical": "Covey",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8731866"
+    ]
+  },
+  "sqs": {
+    "canonical": "SQS",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8731873"
+    ]
+  },
+  "aws cli": {
+    "canonical": "AWS CLI",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8733915"
+    ]
+  },
+  "active directory (ad)": {
+    "canonical": "Active Directory (AD)",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8733915"
+    ]
+  },
+  "launchdarkly": {
+    "canonical": "LaunchDarkly",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8753183"
+    ]
+  },
+  "copilot for microsoft 365": {
+    "canonical": "Copilot for Microsoft 365",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8755135"
+    ]
+  },
+  "nice interaction analytics platform": {
+    "canonical": "NiCE Interaction Analytics platform",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8766105"
+    ]
+  },
+  "drizzle": {
+    "canonical": "Drizzle",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8769194"
+    ]
+  },
+  "vertex ai agent builder": {
+    "canonical": "Vertex AI Agent Builder",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8769931"
+    ]
+  },
+  "iceberg": {
+    "canonical": "Iceberg",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8771913"
+    ]
+  },
+  "lance": {
+    "canonical": "Lance",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8771913"
+    ]
+  },
+  "megatron": {
+    "canonical": "Megatron",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8771913"
+    ]
+  },
+  "data store": {
+    "canonical": "Data Store",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8782226"
+    ]
+  },
+  "azure ai search": {
+    "canonical": "Azure AI Search",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8783416"
+    ]
+  },
+  "application insights": {
+    "canonical": "Application Insights",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8783416"
+    ]
+  },
+  "log analytics": {
+    "canonical": "Log Analytics",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8783416"
+    ]
+  },
+  "cloudtrail": {
+    "canonical": "CloudTrail",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8783416"
+    ]
+  },
+  "arm templates": {
+    "canonical": "ARM Templates",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8783416"
+    ]
+  },
+  "azure ad/entra id": {
+    "canonical": "Azure AD/Entra ID",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8783416"
+    ]
+  },
+  "visual studio": {
+    "canonical": "Visual Studio",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8785826"
+    ]
+  },
+  "reinforcement learning": {
+    "canonical": "Reinforcement Learning",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8791174"
+    ]
+  },
+  "blockchain": {
+    "canonical": "Blockchain",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8791174"
+    ]
+  },
+  "nice": {
+    "canonical": "NiCE",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8795118"
+    ]
+  },
+  "lstms": {
+    "canonical": "LSTMs",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8795822"
+    ]
+  },
+  "google agent sdk": {
+    "canonical": "Google Agent SDK",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8799017"
+    ]
+  },
+  "ai ueba": {
+    "canonical": "AI UEBA",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8802824"
+    ]
+  },
+  "kdb+/q": {
+    "canonical": "kdb+/q",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8804778"
+    ]
+  },
+  "grace hopper": {
+    "canonical": "Grace Hopper",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8804778"
+    ]
+  },
+  "nvidia ngc containers": {
+    "canonical": "NVIDIA NGC containers",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8804778"
+    ]
+  },
+  "dcs": {
+    "canonical": "DCS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8810002"
+    ]
+  },
+  "ovation™ dcs": {
+    "canonical": "Ovation™ DCS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8810002"
+    ]
+  },
+  "sas": {
+    "canonical": "SAS",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "8812001"
+    ]
+  },
+  "synapse analytics": {
+    "canonical": "Synapse Analytics",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8812001"
+    ]
+  },
+  "adf": {
+    "canonical": "ADF",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8812001"
+    ]
+  },
+  "adls gen2": {
+    "canonical": "ADLS Gen2",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8812001"
+    ]
+  },
+  "event hubs": {
+    "canonical": "Event Hubs",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8812001"
+    ]
+  },
+  "google brain": {
+    "canonical": "Google Brain",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8814105"
+    ]
+  },
+  "deepmind": {
+    "canonical": "Deepmind",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8814105"
+    ]
+  },
+  "apple": {
+    "canonical": "Apple",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8814105"
+    ]
+  },
+  "meta": {
+    "canonical": "Meta",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8814105"
+    ]
+  },
+  "mila": {
+    "canonical": "MILA",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8814105"
+    ]
+  },
+  "trend vision one": {
+    "canonical": "Trend Vision One",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8817214"
+    ]
+  },
+  "workload identity federation": {
+    "canonical": "Workload Identity Federation",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8817799"
+    ]
+  },
+  "drizzle orm": {
+    "canonical": "Drizzle ORM",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8826211"
+    ]
+  },
+  "vercel ai sdk": {
+    "canonical": "Vercel AI SDK",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8826211"
+    ]
+  },
+  "coding agents": {
+    "canonical": "coding agents",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8826772"
+    ]
+  },
+  "coding harnesses": {
+    "canonical": "coding harnesses",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8826772"
+    ]
+  },
+  "test frameworks": {
+    "canonical": "test frameworks",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8826772"
+    ]
+  },
+  "kubernetes gateway api": {
+    "canonical": "Kubernetes Gateway API",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8830427"
+    ]
+  },
+  "ansys hfss 3d/layout": {
+    "canonical": "Ansys HFSS 3D/Layout",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8834337"
+    ]
+  },
+  "keysight ads momentum": {
+    "canonical": "Keysight ADS Momentum",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8834337"
+    ]
+  },
+  "keysight ads sigrity": {
+    "canonical": "Keysight ADS Sigrity",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8834337"
+    ]
+  },
+  "camunda 8": {
+    "canonical": "Camunda 8",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8835093"
+    ]
+  },
+  "oracle jde": {
+    "canonical": "Oracle JDE",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8839793"
+    ]
+  },
+  "leandata": {
+    "canonical": "LeanData",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8842023"
+    ]
+  },
+  "glassdoor": {
+    "canonical": "Glassdoor",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8842635"
+    ]
+  },
+  "linkedin": {
+    "canonical": "LinkedIn",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8842635"
+    ]
+  },
+  "life at pointclickcare": {
+    "canonical": "Life at PointClickCare",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8842635"
+    ]
+  },
+  "supernal": {
+    "canonical": "Supernal",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8843543"
+    ]
+  },
+  "uipath ai center": {
+    "canonical": "UiPath AI Center",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8844312"
+    ]
+  },
+  "faster r-cnn": {
+    "canonical": "Faster R-CNN",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8846501"
+    ]
+  },
+  "hai": {
+    "canonical": "Hai",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8847914"
+    ]
+  },
+  "google cloud platform": {
+    "canonical": "Google Cloud Platform",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8850720"
+    ]
+  },
+  "docebo": {
+    "canonical": "Docebo",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8850720"
+    ]
+  },
+  "tangelo": {
+    "canonical": "Tangelo",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8850720"
+    ]
+  },
+  "zenphi": {
+    "canonical": "Zenphi",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8850720"
+    ]
+  },
+  "data factory": {
+    "canonical": "Data Factory",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8851276"
+    ]
+  },
+  "gpt-4o": {
+    "canonical": "GPT-4o",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8852945"
+    ]
+  },
+  "iterable": {
+    "canonical": "Iterable",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8852945"
+    ]
+  },
+  "macos": {
+    "canonical": "MacOS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8852945"
+    ]
+  },
+  "ios": {
+    "canonical": "iOS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8852945"
+    ]
+  },
+  "android": {
+    "canonical": "Android",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8852945"
+    ]
+  },
+  "beacon": {
+    "canonical": "Beacon",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8853802"
+    ]
+  },
+  "active directory domain services (ad ds)": {
+    "canonical": "Active Directory Domain Services (AD DS)",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8855160"
+    ]
+  },
+  "nim microservices": {
+    "canonical": "NIM microservices",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8856938"
+    ]
+  },
+  "cuda-x": {
+    "canonical": "CUDA-X",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8856938"
+    ]
+  },
+  "eval framework": {
+    "canonical": "Eval framework",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8857411"
+    ]
+  },
+  "semantic retrieval": {
+    "canonical": "semantic retrieval",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8857516"
+    ]
+  },
+  "graph rag": {
+    "canonical": "Graph RAG",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8865080"
+    ]
+  },
+  "jats": {
+    "canonical": "JATS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8866136"
+    ]
+  },
+  "google or-tools": {
+    "canonical": "Google OR-Tools",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8868065"
+    ]
+  },
+  "policy engines": {
+    "canonical": "policy engines",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8868979"
+    ]
+  },
+  "datasets": {
+    "canonical": "datasets",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8869401"
+    ]
+  },
+  "ai data cloud": {
+    "canonical": "AI Data Cloud",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8874316"
+    ]
+  },
+  "minio": {
+    "canonical": "MinIO",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8874511"
+    ]
+  },
+  "anthropic agents sdk": {
+    "canonical": "Anthropic Agents SDK",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8874866"
+    ]
+  },
+  "google aistudio": {
+    "canonical": "Google AIStudio",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8876517"
+    ]
+  },
+  "linktree": {
+    "canonical": "Linktree",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8879130"
+    ]
+  },
+  "large language models (llms)": {
+    "canonical": "Large Language Models (LLMs)",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8879405"
+    ]
+  },
+  "fleetworks": {
+    "canonical": "FleetWorks",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8881868"
+    ]
+  },
+  "palantir vantage": {
+    "canonical": "Palantir Vantage",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8882370"
+    ]
+  },
+  "azure databricks": {
+    "canonical": "Azure Databricks",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8882370"
+    ]
+  },
+  "power pages/portals": {
+    "canonical": "Power Pages/Portals",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8882370"
+    ]
+  },
+  "portal management mda": {
+    "canonical": "Portal Management MDA",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8882370"
+    ]
+  },
+  "model-driven app": {
+    "canonical": "Model-driven App",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8882370"
+    ]
+  },
+  "canvas app": {
+    "canonical": "Canvas App",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8882370"
+    ]
+  },
+  "army 365 (a365)": {
+    "canonical": "Army 365 (A365)",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8882370"
+    ]
+  },
+  "sap cx": {
+    "canonical": "SAP CX",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8884406"
+    ]
+  },
+  "outreach": {
+    "canonical": "Outreach",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8890279"
+    ]
+  },
+  "gainsight": {
+    "canonical": "Gainsight",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8890279"
+    ]
+  },
+  "clay": {
+    "canonical": "Clay",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8890279"
+    ]
+  },
+  "phantombuster": {
+    "canonical": "PhantomBuster",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8890279"
+    ]
+  },
+  "apify": {
+    "canonical": "Apify",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8890279"
+    ]
+  },
+  "dust": {
+    "canonical": "Dust",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8890279"
+    ]
+  },
+  "operational technology platform": {
+    "canonical": "Operational Technology platform",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8895316"
+    ]
+  },
+  "tensorflow serving": {
+    "canonical": "TensorFlow Serving",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8899959"
+    ]
+  },
+  "agent framework": {
+    "canonical": "Agent Framework",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8900532"
+    ]
+  },
+  "jetpack sdk": {
+    "canonical": "JetPack SDK",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8902849"
+    ]
+  },
+  "gpu operator": {
+    "canonical": "GPU Operator",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8904868"
+    ]
+  },
+  "snac": {
+    "canonical": "SNAC",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8906867"
+    ]
+  },
+  "dac": {
+    "canonical": "DAC",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8906867"
+    ]
+  },
+  "pna": {
+    "canonical": "PNA",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8910108"
+    ]
+  },
+  "zendesk": {
+    "canonical": "Zendesk",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8911358"
+    ]
+  },
+  "gradio": {
+    "canonical": "Gradio",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "8916225"
+    ]
+  },
+  "hl7": {
+    "canonical": "HL7",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8920635"
+    ]
+  },
+  "emr": {
+    "canonical": "EMR",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8920635"
+    ]
+  },
+  "resnet": {
+    "canonical": "ResNet",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8922599"
+    ]
+  },
+  "sharepoint": {
+    "canonical": "SharePoint",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8922599"
+    ]
+  },
+  "quality center": {
+    "canonical": "Quality Center",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8922599"
+    ]
+  },
+  "anduril": {
+    "canonical": "Anduril",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8922885"
+    ]
+  },
+  "ai sdk": {
+    "canonical": "AI SDK",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8926437"
+    ]
+  },
+  "miva template language (mvt)": {
+    "canonical": "Miva Template Language (MVT)",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8932402"
+    ]
+  },
+  "mongo atlas": {
+    "canonical": "Mongo Atlas",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "8933313"
+    ]
+  },
+  "google anti-gravity": {
+    "canonical": "Google Anti-Gravity",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8933745"
+    ]
+  },
+  "alteryx designer desktop": {
+    "canonical": "Alteryx Designer Desktop",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8936207"
+    ]
+  },
+  "horovod": {
+    "canonical": "Horovod",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8942702"
+    ]
+  },
+  "nist": {
+    "canonical": "NIST",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8948563"
+    ]
+  },
+  "fedramp": {
+    "canonical": "FedRAMP",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8948563"
+    ]
+  },
+  "weights and biases": {
+    "canonical": "Weights and Biases",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8953611"
+    ]
+  },
+  "sbcs": {
+    "canonical": "SBCs",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "8953701"
+    ]
+  },
+  "mvp": {
+    "canonical": "MVP",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8953701"
+    ]
+  },
+  "llama.cpp": {
+    "canonical": "llama.cpp",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8954635"
+    ]
+  },
+  "rancher": {
+    "canonical": "Rancher",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8954638"
+    ]
+  },
+  "graph convolutional networks (gcns)": {
+    "canonical": "Graph Convolutional Networks (GCNs)",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8954642"
+    ]
+  },
+  "dino": {
+    "canonical": "DINO",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8954642"
+    ]
+  },
+  "mpls": {
+    "canonical": "MPLS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8959903"
+    ]
+  },
+  "strands": {
+    "canonical": "Strands",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8977832"
+    ]
+  },
+  "k-means": {
+    "canonical": "K-means",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8979495"
+    ]
+  },
+  "jetpack compose": {
+    "canonical": "Jetpack Compose",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "8980113"
+    ]
+  },
+  "cloudfront": {
+    "canonical": "CloudFront",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8980113"
+    ]
+  },
+  "nemo": {
+    "canonical": "NeMo",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8981754"
+    ]
+  },
+  "anypoint platform": {
+    "canonical": "Anypoint Platform",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8985641"
+    ]
+  },
+  "nsight": {
+    "canonical": "Nsight",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8986013"
+    ]
+  },
+  "material-ui": {
+    "canonical": "Material-UI",
+    "category": "frontend",
+    "count": 1,
+    "seen_in": [
+      "8992088"
+    ]
+  },
+  "chainguard agent skills": {
+    "canonical": "Chainguard Agent Skills",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8993800"
+    ]
+  },
+  "power automate": {
+    "canonical": "Power Automate",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8994263"
+    ]
+  },
+  "nemo agent toolkit": {
+    "canonical": "NeMo Agent Toolkit",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8994937"
+    ]
+  },
+  "nemo framework": {
+    "canonical": "NeMo Framework",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8994937"
+    ]
+  },
+  "nims": {
+    "canonical": "NIMs",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8994937"
+    ]
+  },
+  "ragas": {
+    "canonical": "RAGAs",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "8994937"
+    ]
+  },
+  "arize phoenix": {
+    "canonical": "Arize Phoenix",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8994937"
+    ]
+  },
+  "w&b weave": {
+    "canonical": "W&B Weave",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8994937"
+    ]
+  },
+  "nvidia blueprints": {
+    "canonical": "NVIDIA Blueprints",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "8994937"
+    ]
+  },
+  "aws batch": {
+    "canonical": "AWS Batch",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "8997684"
+    ]
+  },
+  "dataflow": {
+    "canonical": "Dataflow",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9002575"
+    ]
+  },
+  "azure synapse": {
+    "canonical": "Azure Synapse",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9002575"
+    ]
+  },
+  "aws data pipelines": {
+    "canonical": "AWS Data Pipelines",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9002575"
+    ]
+  },
+  "aws agentcore": {
+    "canonical": "AWS AgentCore",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9003785"
+    ]
+  },
+  "databricks agentbricks": {
+    "canonical": "Databricks AgentBricks",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9003785"
+    ]
+  },
+  "oauth 2.0": {
+    "canonical": "OAuth 2.0",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9004668"
+    ]
+  },
+  "sso": {
+    "canonical": "SSO",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9004770"
+    ]
+  },
+  "cloud iam": {
+    "canonical": "cloud IAM",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9004770"
+    ]
+  },
+  "secrets management": {
+    "canonical": "secrets management",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9004770"
+    ]
+  },
+  "ai customer experience (aic)": {
+    "canonical": "AI Customer Experience (AIC)",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9005612"
+    ]
+  },
+  "mqtt": {
+    "canonical": "MQTT",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9008937"
+    ]
+  },
+  "github projects": {
+    "canonical": "GitHub Projects",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9009187"
+    ]
+  },
+  "azure search": {
+    "canonical": "Azure Search",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9016458"
+    ]
+  },
+  "cortex platforms": {
+    "canonical": "Cortex platforms",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9017454"
+    ]
+  },
+  "data ops": {
+    "canonical": "Data Ops",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9021534"
+    ]
+  },
+  "nvidia a100": {
+    "canonical": "NVIDIA A100",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9024256"
+    ]
+  },
+  "h100": {
+    "canonical": "H100",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9024256"
+    ]
+  },
+  "b200": {
+    "canonical": "B200",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9024256"
+    ]
+  },
+  "oidc": {
+    "canonical": "OIDC",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9032158"
+    ]
+  },
+  "nvidia orin": {
+    "canonical": "NVIDIA Orin",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9033097"
+    ]
+  },
+  "spring core": {
+    "canonical": "Spring Core",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9043511"
+    ]
+  },
+  "spring batch": {
+    "canonical": "Spring Batch",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9043511"
+    ]
+  },
+  "spring integration": {
+    "canonical": "Spring Integration",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9043511"
+    ]
+  },
+  "spring data": {
+    "canonical": "Spring Data",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9043511"
+    ]
+  },
+  "intellij": {
+    "canonical": "IntelliJ",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9043511"
+    ]
+  },
+  "blackduck": {
+    "canonical": "BlackDuck",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9043511"
+    ]
+  },
+  "cruisecontrol": {
+    "canonical": "CruiseControl",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9043511"
+    ]
+  },
+  "lightspeed": {
+    "canonical": "Lightspeed",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9043512"
+    ]
+  },
+  "fsdp": {
+    "canonical": "FSDP",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9043770"
+    ]
+  },
+  "zero": {
+    "canonical": "ZeRO",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9043770"
+    ]
+  },
+  "dax": {
+    "canonical": "DAX",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "9047544"
+    ]
+  },
+  "sqlalchemy": {
+    "canonical": "SQLAlchemy",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9047544"
+    ]
+  },
+  "cadence": {
+    "canonical": "Cadence",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9056103"
+    ]
+  },
+  "gcp ai platform": {
+    "canonical": "GCP AI Platform",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9058619"
+    ]
+  },
+  "lang graph": {
+    "canonical": "Lang Graph",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9059380"
+    ]
+  },
+  "rpg": {
+    "canonical": "RPG",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "9060478"
+    ]
+  },
+  "cobol": {
+    "canonical": "COBOL",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "9060478"
+    ]
+  },
+  "as/400": {
+    "canonical": "AS/400",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9060478"
+    ]
+  },
+  "db2": {
+    "canonical": "DB2",
+    "category": "databases",
+    "count": 1,
+    "seen_in": [
+      "9060478"
+    ]
+  },
+  "mcp servers": {
+    "canonical": "MCP servers",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9060801"
+    ]
+  },
+  "palantir technologies": {
+    "canonical": "Palantir Technologies",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9061358"
+    ]
+  },
+  "apple neural engine": {
+    "canonical": "Apple Neural Engine",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9061591"
+    ]
+  },
+  "qualcomm hexagon/adreno": {
+    "canonical": "Qualcomm Hexagon/Adreno",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9061591"
+    ]
+  },
+  "arm mali": {
+    "canonical": "ARM Mali",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9061591"
+    ]
+  },
+  "nerf": {
+    "canonical": "NeRF",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9061591"
+    ]
+  },
+  "3dgs": {
+    "canonical": "3DGS",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9061591"
+    ]
+  },
+  "microsoft fabric": {
+    "canonical": "Microsoft Fabric",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9062605"
+    ]
+  },
+  "jinja2": {
+    "canonical": "Jinja2",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9062605"
+    ]
+  },
+  "assistants": {
+    "canonical": "Assistants",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9063576"
+    ]
+  },
+  "eventbridge": {
+    "canonical": "EventBridge",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9063813"
+    ]
+  },
+  "ebpf": {
+    "canonical": "eBPF",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9069439"
+    ]
+  },
+  "snowflake cortex ai": {
+    "canonical": "Snowflake Cortex AI",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9069824"
+    ]
+  },
+  "snowflake ml": {
+    "canonical": "Snowflake ML",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9069824"
+    ]
+  },
+  "jd edwards": {
+    "canonical": "JD Edwards",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9073023"
+    ]
+  },
+  "visual studio code": {
+    "canonical": "Visual Studio Code",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9075453"
+    ]
+  },
+  "adobe illustrator": {
+    "canonical": "Adobe Illustrator",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9076062"
+    ]
+  },
+  "adobe indesign": {
+    "canonical": "Adobe InDesign",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9076062"
+    ]
+  },
+  "cadence virtuoso": {
+    "canonical": "Cadence Virtuoso",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9076112"
+    ]
+  },
+  "matplotlib": {
+    "canonical": "Matplotlib",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9076112"
+    ]
+  },
+  "cnns": {
+    "canonical": "CNNs",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9076114"
+    ]
+  },
+  "sagemaker studio": {
+    "canonical": "SageMaker Studio",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9076809"
+    ]
+  },
+  "quartermaster": {
+    "canonical": "Quartermaster",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9077278"
+    ]
+  },
+  "aws frontier agents": {
+    "canonical": "AWS Frontier Agents",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9080405"
+    ]
+  },
+  "cis critical security controls": {
+    "canonical": "CIS Critical Security Controls",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9085926"
+    ]
+  },
+  "nist csf": {
+    "canonical": "NIST CSF",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9085926"
+    ]
+  },
+  "nist 80053": {
+    "canonical": "NIST 80053",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9085926"
+    ]
+  },
+  "netsuite wms": {
+    "canonical": "NetSuite WMS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9086714"
+    ]
+  },
+  "chat completions api": {
+    "canonical": "Chat Completions API",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9088661"
+    ]
+  },
+  "teams": {
+    "canonical": "Teams",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9088694"
+    ]
+  },
+  "yolox": {
+    "canonical": "YOLOX",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9089936"
+    ]
+  },
+  "openai agents sdk": {
+    "canonical": "OpenAI Agents SDK",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9090466"
+    ]
+  },
+  "avatar iv": {
+    "canonical": "Avatar IV",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9090466"
+    ]
+  },
+  "video agent": {
+    "canonical": "Video Agent",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9090466"
+    ]
+  },
+  "video translation": {
+    "canonical": "Video Translation",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9090466"
+    ]
+  },
+  "lipsync": {
+    "canonical": "Lipsync",
+    "category": "ai_ml",
+    "count": 1,
+    "seen_in": [
+      "9090466"
+    ]
+  },
+  "elixir": {
+    "canonical": "Elixir",
+    "category": "languages",
+    "count": 1,
+    "seen_in": [
+      "9090544"
+    ]
+  },
+  "phoenix": {
+    "canonical": "Phoenix",
+    "category": "backend",
+    "count": 1,
+    "seen_in": [
+      "9090544"
+    ]
+  },
+  "temporal": {
+    "canonical": "Temporal",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9090544"
+    ]
+  },
+  "cargo": {
+    "canonical": "Cargo",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9092699"
+    ]
+  },
+  "suitecloud": {
+    "canonical": "SuiteCloud",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9093845"
+    ]
+  },
+  "forge": {
+    "canonical": "Forge",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9093845"
+    ]
+  },
+  "connect apps": {
+    "canonical": "Connect apps",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9093845"
+    ]
+  },
+  "dvc": {
+    "canonical": "DVC",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9100870"
+    ]
+  },
+  "rdf": {
+    "canonical": "RDF",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9101006"
+    ]
+  },
+  "sparql": {
+    "canonical": "SPARQL",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9101006"
+    ]
+  },
+  "service bus": {
+    "canonical": "Service Bus",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9101202"
+    ]
+  },
+  "langfuse": {
+    "canonical": "Langfuse",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9101202"
+    ]
+  },
+  "regal": {
+    "canonical": "Regal",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9103432"
+    ]
+  },
+  "google kubernetes engine": {
+    "canonical": "Google Kubernetes Engine",
+    "category": "devops_cloud",
+    "count": 1,
+    "seen_in": [
+      "9103463"
+    ]
+  },
+  "rtos": {
+    "canonical": "RTOS",
+    "category": "tools",
+    "count": 1,
+    "seen_in": [
+      "9103764"
+    ]
+  }
+}
